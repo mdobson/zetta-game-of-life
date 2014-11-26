@@ -1,0 +1,25 @@
+{
+  "name": "zetta-game-of-life",
+  "version": "0.0.0",
+  "description": "",
+  "main": "board_driver.js",
+  "dependencies": {
+    "evented-game-of-life": "~0.1.0",
+    "zetta": "~0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdobson/zetta-game-of-life.git"
+  },
+  "author": "Matthew Dobson <@mdobs>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdobson/zetta-game-of-life/issues"
+  },
+  "homepage": "https://github.com/mdobson/zetta-game-of-life"
+}
